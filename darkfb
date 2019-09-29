@@ -1,0 +1,17 @@
+DarkFB v1.7 
+$ apt update && apt upgrade 
+$ apt install python2 
+$ pkg install git 
+$ pip2 install requests
+$ pip2 install mechanize
+$ git clone https://github.com/freedarkfb/dark
+$ cd dark
+$ ls 
+$ python2 dark.py
+
+Thanks for Watching.. 
+Copas aja biar gak ada yang salah.. 
+jangan lupa subscribe... 
+youtube: B4ng Sanz 
+fb : Bang Sanz 
+follow_ig: b4ng_sanz028
